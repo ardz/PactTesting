@@ -1,8 +1,0 @@
-C:\Users\richa\source\repos\PactTesting\Api\bin\Debug\netcoreapp2.0\Api.deps.json
-C:\Users\richa\source\repos\PactTesting\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
-C:\Users\richa\source\repos\PactTesting\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
-C:\Users\richa\source\repos\PactTesting\Api\bin\Debug\netcoreapp2.0\Api.dll
-C:\Users\richa\source\repos\PactTesting\Api\obj\Debug\netcoreapp2.0\Api.csprojResolveAssemblyReference.cache
-C:\Users\richa\source\repos\PactTesting\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
-C:\Users\richa\source\repos\PactTesting\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
-C:\Users\richa\source\repos\PactTesting\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
