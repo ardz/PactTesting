@@ -12,6 +12,14 @@ namespace ConsumerTests
             const string foo = "hello";
 
             Console.Write(foo);
+
+            var bar = new Guid();
+
+            var s = bar.ToString();
+
+            var charEnumerator = s.GetEnumerator();
+
+            charEnumerator.Dispose();
         }
     }
 }
