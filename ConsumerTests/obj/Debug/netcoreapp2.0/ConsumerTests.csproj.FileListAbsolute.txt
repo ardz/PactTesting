@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\bin\Debug\netcoreapp2.0\ConsumerTests.deps.json
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\bin\Debug\netcoreapp2.0\ConsumerTests.runtimeconfig.json
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\bin\Debug\netcoreapp2.0\ConsumerTests.runtimeconfig.dev.json
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\bin\Debug\netcoreapp2.0\ConsumerTests.dll
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\obj\Debug\netcoreapp2.0\ConsumerTests.csprojResolveAssemblyReference.cache
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\obj\Debug\netcoreapp2.0\ConsumerTests.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\obj\Debug\netcoreapp2.0\ConsumerTests.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\PactTesting\ConsumerTests\obj\Debug\netcoreapp2.0\ConsumerTests.AssemblyInfo.cs
